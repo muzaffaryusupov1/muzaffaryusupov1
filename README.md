@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Muzaffar and I'm a Front-end Developer from Uzbekistan</h2>
+<h2 align="center">Hi 👋! My name is Muzaffar</h2>
+
+<p align="left">I'm a Front-end Developer from Uzbekistan.</h2>
 
 ---
 
@@ -9,6 +11,12 @@
 - 🛠️ Tools I use: **React, Next.js, Tailwind, SCSS, Git, MongoDB, Shadcn UI**
 - 📫 Reach me at: [yusupoovdev@gmail.com](mailto:yusupoovdev@gmail.com)
 
+
+###
+
+<img align="right" height="150" src="https://cdn.pfps.gg/pfps/72910-anime.gif"  />
+
+###
 ---
 
 ###
@@ -41,11 +49,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://cdn.pfps.gg/pfps/72910-anime.gif"  />
-
-###
 
 <div align="left">
   <a href="https://www.youtube.com/@muuzaffardev" target="_blank">
