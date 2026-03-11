@@ -6,8 +6,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🚀 Currently building: **Interactive UI, Dashboards, Android Apps using React Native**
-- 🌱 Learning: **Canvas API, JavaScript Games, TypeScript, Ant Design**
+- 🚀 Currently building: **Interactive UI, Dashboards and Android Apps using React Native**
+- 🌱 Learning: **React Native, Framer, TypeScript, Ant Design**
 - 🛠️ Tools I use: **React, React Native, Next.js, Tailwind, Git, Shadcn UI, Ant Design**
 - 📫 Reach me at: [yusupoovdev@gmail.com](mailto:yusupoovdev@gmail.com)
 
